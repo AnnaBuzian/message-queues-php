@@ -1,0 +1,2 @@
+<?php
+$worker = new Worker;
